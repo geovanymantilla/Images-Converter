@@ -39,5 +39,5 @@ Permite el desarrollo de aplicaciones gráficas de escritorio usando componentes
 ### Para el desarrollador
 
 1. Instalar las dependencias de nodejs con npm i.
-2. Iniciar el entorno de desarrollo con npm run start.
+2. Iniciar el entorno de desarrollo con npm run dev.
 
