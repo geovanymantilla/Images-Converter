@@ -29,11 +29,12 @@ Permite el desarrollo de aplicaciones gráficas de escritorio usando componentes
 
 ### ¿Cómo ejecutar  la aplicación?
 
-1. Descargar el archivo ejecutable.
-2. Abrir la aplicación y acceder a la interfaz principal.
-3. Seleccionar la imagen a convertir almacenada en el ordenador.
-4. Seleccionar el formato al cual se desea convertir.
-5. Descargar el archivo convertido.
+1. Descargar el archivo .zip ejecutable.
+2. Descomprimir el archivo. 
+3. Abrir la aplicación arquielectron y acceder a la interfaz principal.
+4. Seleccionar la imagen a convertir almacenada en el ordenador.
+5. Seleccionar el formato al cual se desea convertir.
+6. Descargar el archivo convertido.
 
 ### Para el desarrollador
 
