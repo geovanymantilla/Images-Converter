@@ -28,6 +28,6 @@ app.on('ready', () => {
     //     slashes: true
     // });
     // win.loadURL(startUrl);
-    win.loadURL('http://52.72.202.226:3000/'),
+    win.loadURL('http://52.72.202.226:3000/')
     
 })
