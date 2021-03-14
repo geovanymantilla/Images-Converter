@@ -26,6 +26,8 @@ Dotenv es un módulo de dependencia cero que carga variables de entorno desde un
 + **Electron:** 
 Permite el desarrollo de aplicaciones gráficas de escritorio usando componentes del lado del cliente y del servidor originalmente desarrolladas para aplicaciones web: Node.js del lado del servidor y Chromium como interfaz.
 
+para más información sobre electron y su ecosistema: <a href="https://www.electronjs.org/">Electron</a>
+
 
 ### ¿Cómo ejecutar  la aplicación?
 
